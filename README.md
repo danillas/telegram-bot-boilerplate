@@ -1,1 +1,3 @@
-# Download Tik Tok videos without watermark
+# Starter kit for Telegram Bot
+
+Using Telegrag.js as main tg bot framework
