@@ -6,7 +6,6 @@ bot.start((ctx) => {
   ctx.reply('Привет! Этот бот скачивает видео из Тик Тока без вотермарки. Пришли ссылку');
 });
 
-
 bot.launch();
 
 // Enable graceful stop
