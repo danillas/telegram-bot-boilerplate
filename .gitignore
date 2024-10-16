@@ -26,9 +26,7 @@ yarn-error.log*
 *.local.sh
 bundle.zip
 /.env
-.gitlabtoken
 /.vscode
 
-# работаем с yarn-ом
 package-lock.json
 build.zip

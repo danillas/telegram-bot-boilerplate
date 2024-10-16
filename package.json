@@ -3,14 +3,6 @@
   "description": "Start kit for developing Telegram bot wit Telegraf",
   "version": "1.0.0",
   "main": "src/index.ts",
-  "repository": "git@github.com:danillas/tik-tok-smart-downloader.git",
-  "author": "danillas <kaigorodov95@gmail.com>",
-  "private": true,
-  "keywords": [
-    "Start kit",
-    "Telegram bot",
-    "Telegraf"
-  ],
   "scripts": {
     "dev": "cross-env node prebuild.js && dotenv -e .env nodemon src/index.ts",
     "start": "ts-node src/index.ts",
